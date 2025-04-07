@@ -1,0 +1,15 @@
+D:\projects\Tax\Application\Tax.Application\bin\Debug\net8.0\Tax.Application.deps.json
+D:\projects\Tax\Application\Tax.Application\bin\Debug\net8.0\Tax.Application.dll
+D:\projects\Tax\Application\Tax.Application\bin\Debug\net8.0\Tax.Application.pdb
+D:\projects\Tax\Application\Tax.Application\obj\Debug\net8.0\Tax.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Tax\Application\Tax.Application\obj\Debug\net8.0\Tax.Application.AssemblyInfoInputs.cache
+D:\projects\Tax\Application\Tax.Application\obj\Debug\net8.0\Tax.Application.AssemblyInfo.cs
+D:\projects\Tax\Application\Tax.Application\obj\Debug\net8.0\Tax.Application.csproj.CoreCompileInputs.cache
+D:\projects\Tax\Application\Tax.Application\obj\Debug\net8.0\Tax.Application.dll
+D:\projects\Tax\Application\Tax.Application\obj\Debug\net8.0\refint\Tax.Application.dll
+D:\projects\Tax\Application\Tax.Application\obj\Debug\net8.0\Tax.Application.pdb
+D:\projects\Tax\Application\Tax.Application\obj\Debug\net8.0\ref\Tax.Application.dll
+D:\projects\Tax\Application\Tax.Application\bin\Debug\net8.0\Tax.Domain.dll
+D:\projects\Tax\Application\Tax.Application\bin\Debug\net8.0\Tax.Domain.pdb
+D:\projects\Tax\Application\Tax.Application\obj\Debug\net8.0\Tax.Application.csproj.AssemblyReference.cache
+D:\projects\Tax\Application\Tax.Application\obj\Debug\net8.0\Tax.Appl.906BAE7B.Up2Date

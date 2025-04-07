@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ivW3mqmu30aOFmnn0LOOUwwF44B0jqEUB2wTmS/o+4A=",
+  "Source": "Tax.Api",
+  "BasePath": "_content/Tax.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
