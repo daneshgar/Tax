@@ -17,3 +17,4 @@ D:\projects\Tax\Infrastructure\Tax.Infrastructure\obj\Debug\net8.0\refint\Tax.In
 D:\projects\Tax\Infrastructure\Tax.Infrastructure\obj\Debug\net8.0\Tax.Infrastructure.pdb
 D:\projects\Tax\Infrastructure\Tax.Infrastructure\obj\Debug\net8.0\Tax.Infrastructure.genruntimeconfig.cache
 D:\projects\Tax\Infrastructure\Tax.Infrastructure\obj\Debug\net8.0\ref\Tax.Infrastructure.dll
+D:\projects\Tax\Infrastructure\Tax.Infrastructure\obj\Debug\net8.0\Tax.Infrastructure.sourcelink.json

@@ -13,3 +13,4 @@ D:\projects\Tax\Application\Tax.Application\bin\Debug\net8.0\Tax.Domain.dll
 D:\projects\Tax\Application\Tax.Application\bin\Debug\net8.0\Tax.Domain.pdb
 D:\projects\Tax\Application\Tax.Application\obj\Debug\net8.0\Tax.Application.csproj.AssemblyReference.cache
 D:\projects\Tax\Application\Tax.Application\obj\Debug\net8.0\Tax.Appl.906BAE7B.Up2Date
+D:\projects\Tax\Application\Tax.Application\obj\Debug\net8.0\Tax.Application.sourcelink.json

@@ -9,3 +9,4 @@ D:\projects\Tax\Domain\Tax.Domain\obj\Debug\net8.0\Tax.Domain.dll
 D:\projects\Tax\Domain\Tax.Domain\obj\Debug\net8.0\refint\Tax.Domain.dll
 D:\projects\Tax\Domain\Tax.Domain\obj\Debug\net8.0\Tax.Domain.pdb
 D:\projects\Tax\Domain\Tax.Domain\obj\Debug\net8.0\ref\Tax.Domain.dll
+D:\projects\Tax\Domain\Tax.Domain\obj\Debug\net8.0\Tax.Domain.sourcelink.json
