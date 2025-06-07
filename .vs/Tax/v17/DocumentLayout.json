@@ -3,40 +3,92 @@
   "WorkspaceRootPath": "D:\\projects\\Tax\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\events\\taxinvoiceconfirmedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\events\\taxinvoiceconfirmedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\entities\\taxinvoicehistoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\entities\\taxinvoicehistoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|d:\\projects\\tax\\infrastructure\\tax.infrastructure\\handlers\\query\\gettaxitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|solutionrelative:infrastructure\\tax.infrastructure\\handlers\\query\\gettaxitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\entities\\taxinvoiceinquiryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\entities\\taxinvoiceinquiryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|d:\\projects\\tax\\infrastructure\\tax.infrastructure\\handlers\\command\\confirmtaxitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|solutionrelative:infrastructure\\tax.infrastructure\\handlers\\command\\confirmtaxitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|d:\\projects\\tax\\infrastructure\\tax.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|solutionrelative:infrastructure\\tax.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\entities\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\entities\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\events\\taxinvoicesentevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\events\\taxinvoicesentevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\aggregates\\taxinvoice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\aggregates\\taxinvoice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\valueobject\\userid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\valueobject\\userid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\events\\taxinvoicecreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\events\\taxinvoicecreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\valueobject\\customerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\valueobject\\customerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\entities\\taxinvoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\entities\\taxinvoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\aggregate\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\aggregate\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\entities\\paymentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\entities\\paymentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\common\\valueobject\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\common\\valueobject\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\common\\valueobject\\taxid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\common\\valueobject\\taxid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\common\\valueobject\\nationalcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\common\\valueobject\\nationalcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\common\\enums\\settlementmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\common\\enums\\settlementmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\common\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\common\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\common\\enums\\persontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\common\\enums\\persontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\common\\enums\\invoicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\common\\enums\\invoicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\common\\base\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\common\\base\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\common\\base\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\common\\base\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\common\\base\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\common\\base\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|d:\\projects\\tax\\infrastructure\\tax.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|solutionrelative:infrastructure\\tax.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|d:\\projects\\tax\\infrastructure\\tax.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|solutionrelative:infrastructure\\tax.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF9BD522-E9F4-4A89-A0E0-2C55680B6F3D}|Application\\Tax.Application\\Tax.Application.csproj|d:\\projects\\tax\\application\\tax.application\\queries\\gettaxitemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,16 +107,8 @@
       "RelativeMoniker": "D:0:0:{AF9BD522-E9F4-4A89-A0E0-2C55680B6F3D}|Application\\Tax.Application\\Tax.Application.csproj|solutionrelative:application\\tax.application\\commands\\confirmtaxitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|d:\\projects\\tax\\infrastructure\\tax.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|solutionrelative:infrastructure\\tax.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|d:\\projects\\tax\\infrastructure\\tax.infrastructure\\migrations\\20250407121515_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|solutionrelative:infrastructure\\tax.infrastructure\\migrations\\20250407121515_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|d:\\projects\\tax\\infrastructure\\tax.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|solutionrelative:infrastructure\\tax.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E66639A5-2AA7-4C1A-A094-FEC6C5B166C2}|Presentation\\Tax.Api\\Tax.Api\\Tax.Api.csproj|d:\\projects\\tax\\presentation\\tax.api\\tax.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,16 +127,8 @@
       "RelativeMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|solutionrelative:infrastructure\\tax.infrastructure\\tax.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|d:\\projects\\tax\\infrastructure\\tax.infrastructure\\handlers\\command\\confirmtaxitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|solutionrelative:infrastructure\\tax.infrastructure\\handlers\\command\\confirmtaxitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E66639A5-2AA7-4C1A-A094-FEC6C5B166C2}|Presentation\\Tax.Api\\Tax.Api\\Tax.Api.csproj|d:\\projects\\tax\\presentation\\tax.api\\tax.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E66639A5-2AA7-4C1A-A094-FEC6C5B166C2}|Presentation\\Tax.Api\\Tax.Api\\Tax.Api.csproj|solutionrelative:presentation\\tax.api\\tax.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|d:\\projects\\tax\\infrastructure\\tax.infrastructure\\handlers\\query\\gettaxitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|solutionrelative:infrastructure\\tax.infrastructure\\handlers\\query\\gettaxitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 23,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,111 +146,240 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserId.cs",
-              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\ValueObject\\UserId.cs",
-              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\ValueObject\\UserId.cs",
-              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\ValueObject\\UserId.cs",
-              "RelativeToolTip": "Domain\\Tax.Domain\\ValueObject\\UserId.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T14:16:29.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomerId.cs",
-              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\ValueObject\\CustomerId.cs",
-              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\ValueObject\\CustomerId.cs",
-              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\ValueObject\\CustomerId.cs",
-              "RelativeToolTip": "Domain\\Tax.Domain\\ValueObject\\CustomerId.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T14:11:00.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AggregateRoot.cs",
-              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Aggregate\\AggregateRoot.cs",
-              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Aggregate\\AggregateRoot.cs",
-              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Aggregate\\AggregateRoot.cs",
-              "RelativeToolTip": "Domain\\Tax.Domain\\Aggregate\\AggregateRoot.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T13:25:42.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\Entity.cs",
-              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Entities\\Entity.cs",
-              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\Entity.cs",
-              "RelativeToolTip": "Domain\\Tax.Domain\\Entities\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T13:25:03.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CustomerEntity.cs",
-              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\CustomerEntity.cs",
-              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Entities\\CustomerEntity.cs",
-              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\CustomerEntity.cs",
-              "RelativeToolTip": "Domain\\Tax.Domain\\Entities\\CustomerEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Title": "TaxInvoiceSentEvent.cs",
+              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Events\\TaxInvoiceSentEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Events\\TaxInvoiceSentEvent.cs",
+              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Events\\TaxInvoiceSentEvent.cs",
+              "RelativeToolTip": "Domain\\Tax.Domain\\Events\\TaxInvoiceSentEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T13:24:12.564Z",
+              "WhenOpened": "2025-06-07T14:28:02.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserEntity.cs",
-              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\UserEntity.cs",
-              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Entities\\UserEntity.cs",
-              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\UserEntity.cs",
-              "RelativeToolTip": "Domain\\Tax.Domain\\Entities\\UserEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TaxInvoiceConfirmedEvent.cs",
+              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Events\\TaxInvoiceConfirmedEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Events\\TaxInvoiceConfirmedEvent.cs",
+              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Events\\TaxInvoiceConfirmedEvent.cs",
+              "RelativeToolTip": "Domain\\Tax.Domain\\Events\\TaxInvoiceConfirmedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T13:23:56.895Z",
+              "WhenOpened": "2025-06-07T14:27:22.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TaxInvoiceInquiryEntity.cs",
-              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\TaxInvoiceInquiryEntity.cs",
-              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Entities\\TaxInvoiceInquiryEntity.cs",
-              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\TaxInvoiceInquiryEntity.cs",
-              "RelativeToolTip": "Domain\\Tax.Domain\\Entities\\TaxInvoiceInquiryEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "TaxInvoiceCreatedEvent.cs",
+              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Events\\TaxInvoiceCreatedEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Events\\TaxInvoiceCreatedEvent.cs",
+              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Events\\TaxInvoiceCreatedEvent.cs",
+              "RelativeToolTip": "Domain\\Tax.Domain\\Events\\TaxInvoiceCreatedEvent.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T13:23:10.949Z",
+              "WhenOpened": "2025-06-07T14:26:45.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaxInvoiceHistoryEntity.cs",
-              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\TaxInvoiceHistoryEntity.cs",
-              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Entities\\TaxInvoiceHistoryEntity.cs",
-              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\TaxInvoiceHistoryEntity.cs",
-              "RelativeToolTip": "Domain\\Tax.Domain\\Entities\\TaxInvoiceHistoryEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Money.cs",
+              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\ValueObject\\Money.cs",
+              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Common\\ValueObject\\Money.cs",
+              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\ValueObject\\Money.cs",
+              "RelativeToolTip": "Domain\\Tax.Domain\\Common\\ValueObject\\Money.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwDUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T13:22:23.136Z",
+              "WhenOpened": "2025-06-07T14:23:21.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaxId.cs",
+              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\ValueObject\\TaxId.cs",
+              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Common\\ValueObject\\TaxId.cs",
+              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\ValueObject\\TaxId.cs",
+              "RelativeToolTip": "Domain\\Tax.Domain\\Common\\ValueObject\\TaxId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:21:56.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NationalCode.cs",
+              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\ValueObject\\NationalCode.cs",
+              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Common\\ValueObject\\NationalCode.cs",
+              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\ValueObject\\NationalCode.cs",
+              "RelativeToolTip": "Domain\\Tax.Domain\\Common\\ValueObject\\NationalCode.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:20:41.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SettlementMethod.cs",
+              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\Enums\\SettlementMethod.cs",
+              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Common\\Enums\\SettlementMethod.cs",
+              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\Enums\\SettlementMethod.cs",
+              "RelativeToolTip": "Domain\\Tax.Domain\\Common\\Enums\\SettlementMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:19:15.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\Enums\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Common\\Enums\\PaymentMethod.cs",
+              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\Enums\\PaymentMethod.cs",
+              "RelativeToolTip": "Domain\\Tax.Domain\\Common\\Enums\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:18:53.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PersonType.cs",
+              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\Enums\\PersonType.cs",
+              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Common\\Enums\\PersonType.cs",
+              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\Enums\\PersonType.cs",
+              "RelativeToolTip": "Domain\\Tax.Domain\\Common\\Enums\\PersonType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:18:30.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InvoiceType.cs",
+              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\Enums\\InvoiceType.cs",
+              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Common\\Enums\\InvoiceType.cs",
+              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\Enums\\InvoiceType.cs",
+              "RelativeToolTip": "Domain\\Tax.Domain\\Common\\Enums\\InvoiceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:18:11.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Entities\\Customer.cs",
+              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "Domain\\Tax.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwBIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:17:19.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaxInvoiceItem.cs",
+              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\TaxInvoiceItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Entities\\TaxInvoiceItem.cs",
+              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\TaxInvoiceItem.cs",
+              "RelativeToolTip": "Domain\\Tax.Domain\\Entities\\TaxInvoiceItem.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAIAwwEcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:16:48.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentInfo.cs",
+              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\PaymentInfo.cs",
+              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Entities\\PaymentInfo.cs",
+              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\PaymentInfo.cs",
+              "RelativeToolTip": "Domain\\Tax.Domain\\Entities\\PaymentInfo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAjwBUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:15:36.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaxInvoice .cs",
+              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Aggregates\\TaxInvoice .cs",
+              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Aggregates\\TaxInvoice .cs",
+              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Aggregates\\TaxInvoice .cs",
+              "RelativeToolTip": "Domain\\Tax.Domain\\Aggregates\\TaxInvoice .cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAMwLgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:14:07.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DomainEvent.cs",
+              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\Base\\DomainEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Common\\Base\\DomainEvent.cs",
+              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\Base\\DomainEvent.cs",
+              "RelativeToolTip": "Domain\\Tax.Domain\\Common\\Base\\DomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:07:52.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\Base\\Entity.cs",
+              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Common\\Base\\Entity.cs",
+              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\Base\\Entity.cs",
+              "RelativeToolTip": "Domain\\Tax.Domain\\Common\\Base\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:07:16.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\Base\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Common\\Base\\AggregateRoot.cs",
+              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Common\\Base\\AggregateRoot.cs",
+              "RelativeToolTip": "Domain\\Tax.Domain\\Common\\Base\\AggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:02:16.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\projects\\Tax\\Infrastructure\\Tax.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Tax.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\projects\\Tax\\Infrastructure\\Tax.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infrastructure\\Tax.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:13:25.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "GetTaxItemsQuery.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Application\\Tax.Application\\Queries\\GetTaxItemsQuery.cs",
               "RelativeDocumentMoniker": "Application\\Tax.Application\\Queries\\GetTaxItemsQuery.cs",
@@ -222,12 +387,11 @@
               "RelativeToolTip": "Application\\Tax.Application\\Queries\\GetTaxItemsQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T10:37:32.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T10:37:32.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "TaxItemDto.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Application\\Tax.Application\\Dto\\TaxItemDto.cs",
               "RelativeDocumentMoniker": "Application\\Tax.Application\\Dto\\TaxItemDto.cs",
@@ -235,12 +399,11 @@
               "RelativeToolTip": "Application\\Tax.Application\\Dto\\TaxItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T10:37:29.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T10:37:29.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "20250407121515_init.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Infrastructure\\Tax.Infrastructure\\Migrations\\20250407121515_init.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Tax.Infrastructure\\Migrations\\20250407121515_init.cs",
@@ -248,12 +411,11 @@
               "RelativeToolTip": "Infrastructure\\Tax.Infrastructure\\Migrations\\20250407121515_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T12:15:15.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T12:15:15.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Infrastructure\\Tax.Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Tax.Infrastructure\\DependencyInjection.cs",
@@ -265,20 +427,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Infrastructure\\Tax.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Tax.Infrastructure\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\projects\\Tax\\Infrastructure\\Tax.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Infrastructure\\Tax.Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T11:47:56.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Presentation\\Tax.Api\\Tax.Api\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Presentation\\Tax.Api\\Tax.Api\\WeatherForecast.cs",
@@ -290,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\projects\\Tax\\Presentation\\Tax.Api\\Tax.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Presentation\\Tax.Api\\Tax.Api\\appsettings.json",
@@ -302,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
               "Title": "Tax.Api.csproj",
               "DocumentMoniker": "D:\\projects\\Tax\\Presentation\\Tax.Api\\Tax.Api\\Tax.Api.csproj",
               "RelativeDocumentMoniker": "Presentation\\Tax.Api\\Tax.Api\\Tax.Api.csproj",
@@ -314,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Presentation\\Tax.Api\\Tax.Api\\Program.cs",
               "RelativeDocumentMoniker": "Presentation\\Tax.Api\\Tax.Api\\Program.cs",
@@ -326,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "TaxItemsController.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Presentation\\Tax.Api\\Tax.Api\\Controllers\\TaxItemsController.cs",
               "RelativeDocumentMoniker": "Presentation\\Tax.Api\\Tax.Api\\Controllers\\TaxItemsController.cs",
@@ -339,31 +501,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 2,
               "Title": "ConfirmTaxItemCommandHandler.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Infrastructure\\Tax.Infrastructure\\Handlers\\Command\\ConfirmTaxItemCommandHandler.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Tax.Infrastructure\\Handlers\\Command\\ConfirmTaxItemCommandHandler.cs",
               "ToolTip": "D:\\projects\\Tax\\Infrastructure\\Tax.Infrastructure\\Handlers\\Command\\ConfirmTaxItemCommandHandler.cs",
               "RelativeToolTip": "Infrastructure\\Tax.Infrastructure\\Handlers\\Command\\ConfirmTaxItemCommandHandler.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvxwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAewBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T08:36:59.192Z"
+              "WhenOpened": "2025-04-07T08:36:59.192Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 1,
               "Title": "GetTaxItemsQueryHandler.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Infrastructure\\Tax.Infrastructure\\Handlers\\Query\\GetTaxItemsQueryHandler.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Tax.Infrastructure\\Handlers\\Query\\GetTaxItemsQueryHandler.cs",
               "ToolTip": "D:\\projects\\Tax\\Infrastructure\\Tax.Infrastructure\\Handlers\\Query\\GetTaxItemsQueryHandler.cs",
               "RelativeToolTip": "Infrastructure\\Tax.Infrastructure\\Handlers\\Query\\GetTaxItemsQueryHandler.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvw0AAABDAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAnwCIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T08:36:14.2Z"
+              "WhenOpened": "2025-04-07T08:36:14.2Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 30,
               "Title": "Tax.Infrastructure.csproj",
               "DocumentMoniker": "D:\\projects\\Tax\\Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj",
@@ -375,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "ConfirmTaxItemCommand.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Application\\Tax.Application\\Commands\\ConfirmTaxItemCommand.cs",
               "RelativeDocumentMoniker": "Application\\Tax.Application\\Commands\\ConfirmTaxItemCommand.cs",
@@ -383,21 +547,7 @@
               "RelativeToolTip": "Application\\Tax.Application\\Commands\\ConfirmTaxItemCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T08:26:28.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Item.cs",
-              "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\Item.cs",
-              "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Entities\\Item.cs",
-              "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\Item.cs",
-              "RelativeToolTip": "Domain\\Tax.Domain\\Entities\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T08:19:19.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T08:26:28.112Z"
             }
           ]
         }

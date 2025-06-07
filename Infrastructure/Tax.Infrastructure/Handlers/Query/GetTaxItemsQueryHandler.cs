@@ -22,16 +22,17 @@ namespace Tax.Infrastructure.Handlers.Query
 
         public async Task<List<TaxItemDto>> Handle(GetTaxItemsQuery request, CancellationToken cancellationToken)
         {
-            return await _context.TaxItems
-                .Skip((request.PageNumber - 1) * request.PageSize)
-                .Take(request.PageSize)
-                .Select(t => new TaxItemDto
-                {
-                    Id = t.Id,
-                    Inno = t.Inno,
-                    IsConfirm = t.IsConfirm
-                })
-                .ToListAsync(cancellationToken);
+            //return await _context.TaxItems
+            //    .Skip((request.PageNumber - 1) * request.PageSize)
+            //    .Take(request.PageSize)
+            //    .Select(t => new TaxItemDto
+            //    {
+            //        Id = t.Id,
+            //        Inno = t.Inno,
+            //        IsConfirm = t.IsConfirm
+            //    })
+            //    .ToListAsync(cancellationToken);
+            return null;
         }
     }
 }
