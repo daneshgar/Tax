@@ -174,3 +174,7 @@ D:\projects\Tax\Presentation\Tax.Api\Tax.Api\bin\Debug\net8.0\zh-Hans\Microsoft.
 D:\projects\Tax\Presentation\Tax.Api\Tax.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\projects\Tax\Presentation\Tax.Api\Tax.Api\obj\Debug\net8.0\Tax.Api.sourcelink.json
 D:\projects\Tax\Presentation\Tax.Api\Tax.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\projects\Tax\Presentation\Tax.Api\Tax.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\projects\Tax\Presentation\Tax.Api\Tax.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\projects\Tax\Presentation\Tax.Api\Tax.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\projects\Tax\Presentation\Tax.Api\Tax.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

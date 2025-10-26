@@ -125,6 +125,13 @@
         },
         "additionalProperties": false
       }
+    },
+    "securitySchemes": {
+      "xs": {
+        "type": "apiKey",
+        "description": "sdsad",
+        "in": "query"
+      }
     }
   }
 }

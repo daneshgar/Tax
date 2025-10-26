@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
 using Tax.Infrastructure;
 using Tax.Infrastructure.Data;
 using Tax.Infrastructure.Handlers.Query;
@@ -15,7 +16,14 @@ builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(GetTa
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(c=>
+c.AddSecurityDefinition("xs",new OpenApiSecurityScheme
+{
+    Description="sdsad",
+    Type=SecuritySchemeType.ApiKey
+}
+    
+));
 
 var app = builder.Build();
 

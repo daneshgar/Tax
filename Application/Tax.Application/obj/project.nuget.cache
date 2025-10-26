@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "zDSc5Sw1qUQ=",
+  "dgSpecHash": "4hqb7+4Zek0=",
   "success": true,
   "projectFilePath": "D:\\projects\\Tax\\Application\\Tax.Application\\Tax.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shabani\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
     "C:\\Users\\shabani\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\shabani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\shabani\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512",
-    "C:\\Users\\shabani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",
-    "C:\\Users\\shabani\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.16\\microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
-    "C:\\Users\\shabani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.16\\microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512"
+    "C:\\Users\\shabani\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.305\\microsoft.net.sdk.compilers.toolset.9.0.305.nupkg.sha512",
+    "C:\\Users\\shabani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\shabani\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\shabani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512"
   ],
   "logs": []
 }

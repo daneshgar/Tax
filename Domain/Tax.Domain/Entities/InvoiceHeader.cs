@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tax.Domain.Common.Enums
+namespace Tax.Domain.Entities
 {
-    public enum SettlementMethod
+    public sealed class InvoiceHeader
     {
-        Cash = 1,
-        Credit = 2,
-        Mixed = 3
+        public long? Indatim { get; set; }
     }
 }
