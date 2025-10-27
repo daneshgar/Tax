@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\projects\\Tax\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\entities\\invoiceheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\entities\\invoiceheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|d:\\projects\\tax\\infrastructure\\tax.infrastructure\\handlers\\query\\gettaxitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25F2919D-7A71-4CF9-8273-E5ECF330F8C1}|Infrastructure\\Tax.Infrastructure\\Tax.Infrastructure.csproj|solutionrelative:infrastructure\\tax.infrastructure\\handlers\\query\\gettaxitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,20 +31,12 @@
       "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\entities\\paymentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\events\\taxinvoicecreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\events\\taxinvoicecreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\entities\\taxinvoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\entities\\taxinvoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|d:\\projects\\tax\\domain\\tax.domain\\entities\\invoiceheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A539A9C9-27F7-4D0F-B157-BCE420832FEA}|Domain\\Tax.Domain\\Tax.Domain.csproj|solutionrelative:domain\\tax.domain\\entities\\invoiceheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E66639A5-2AA7-4C1A-A094-FEC6C5B166C2}|Presentation\\Tax.Api\\Tax.Api\\Tax.Api.csproj|d:\\projects\\tax\\presentation\\tax.api\\tax.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PaymentInfo.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\PaymentInfo.cs",
               "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Entities\\PaymentInfo.cs",
@@ -95,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "TaxInvoiceItem.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\TaxInvoiceItem.cs",
               "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Entities\\TaxInvoiceItem.cs",
@@ -108,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TaxInvoiceSentEvent.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Events\\TaxInvoiceSentEvent.cs",
               "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Events\\TaxInvoiceSentEvent.cs",
@@ -121,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TaxInvoiceCreatedEvent.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Events\\TaxInvoiceCreatedEvent.cs",
               "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Events\\TaxInvoiceCreatedEvent.cs",
@@ -134,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TaxInvoiceConfirmedEvent.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Events\\TaxInvoiceConfirmedEvent.cs",
               "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Events\\TaxInvoiceConfirmedEvent.cs",
@@ -147,20 +147,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "InvoiceHeader.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\InvoiceHeader.cs",
               "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Entities\\InvoiceHeader.cs",
               "ToolTip": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\InvoiceHeader.cs",
               "RelativeToolTip": "Domain\\Tax.Domain\\Entities\\InvoiceHeader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-26T13:25:14.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Domain\\Tax.Domain\\Entities\\Customer.cs",
               "RelativeDocumentMoniker": "Domain\\Tax.Domain\\Entities\\Customer.cs",
@@ -177,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GetTaxItemsQueryHandler.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Infrastructure\\Tax.Infrastructure\\Handlers\\Query\\GetTaxItemsQueryHandler.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Tax.Infrastructure\\Handlers\\Query\\GetTaxItemsQueryHandler.cs",
@@ -190,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ConfirmTaxItemCommandHandler.cs",
               "DocumentMoniker": "D:\\projects\\Tax\\Infrastructure\\Tax.Infrastructure\\Handlers\\Command\\ConfirmTaxItemCommandHandler.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Tax.Infrastructure\\Handlers\\Command\\ConfirmTaxItemCommandHandler.cs",

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tax.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5390c6acb5a73989cfbaffd8c6b6b5fee2b761e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+727bcf24226b64232a195dc100f79cdbdb27b22b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tax.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tax.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
