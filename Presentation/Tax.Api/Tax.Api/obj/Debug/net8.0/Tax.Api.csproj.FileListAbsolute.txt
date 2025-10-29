@@ -27,7 +27,6 @@ D:\projects\Tax\Presentation\Tax.Api\Tax.Api\obj\Debug\net8.0\scopedcss\bundle\T
 D:\projects\Tax\Presentation\Tax.Api\Tax.Api\obj\Debug\net8.0\staticwebassets.build.json
 D:\projects\Tax\Presentation\Tax.Api\Tax.Api\obj\Debug\net8.0\staticwebassets.development.json
 D:\projects\Tax\Presentation\Tax.Api\Tax.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\projects\Tax\Presentation\Tax.Api\Tax.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\projects\Tax\Presentation\Tax.Api\Tax.Api\obj\Debug\net8.0\Tax.Api.csproj.Up2Date
 D:\projects\Tax\Presentation\Tax.Api\Tax.Api\obj\Debug\net8.0\Tax.Api.dll
 D:\projects\Tax\Presentation\Tax.Api\Tax.Api\obj\Debug\net8.0\refint\Tax.Api.dll

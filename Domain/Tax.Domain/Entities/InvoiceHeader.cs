@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Tax.Domain.ValueObjects;
+﻿using Tax.Domain.ValueObjects;
 namespace Tax.Domain.Entities
 {
     public sealed class InvoiceHeader

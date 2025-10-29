@@ -340,3 +340,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 For questions and support, please open an issue in the repository.
 برای سوالات و پشتیبانی، لطفاً یک issue در مخزن ایجاد کنید.
+
