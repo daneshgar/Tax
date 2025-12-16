@@ -177,3 +177,4 @@ D:\projects\Tax\Presentation\Tax.Api\Tax.Api\obj\Debug\net8.0\rpswa.dswa.cache.j
 D:\projects\Tax\Presentation\Tax.Api\Tax.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
 D:\projects\Tax\Presentation\Tax.Api\Tax.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 D:\projects\Tax\Presentation\Tax.Api\Tax.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\projects\Tax\Presentation\Tax.Api\Tax.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

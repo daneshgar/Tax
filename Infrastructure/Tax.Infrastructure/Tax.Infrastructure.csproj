@@ -24,4 +24,8 @@
     <ProjectReference Include="..\..\Domain\Tax.Domain\Tax.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Handlers\Query\" />
+  </ItemGroup>
+
 </Project>

@@ -1644,6 +1644,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "MediatR": "12.5.0",
+          "Microsoft.EntityFrameworkCore": "9.0.3",
           "Tax.Domain": "1.0.0"
         },
         "compile": {
@@ -4925,15 +4926,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.20, 8.0.20]"
+            "version": "[8.0.22, 8.0.22]"
+          },
+          {
+            "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+            "version": "[9.0.307, 9.0.307]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.20, 8.0.20]"
+            "version": "[8.0.22, 8.0.22]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.20, 8.0.20]"
+            "version": "[8.0.22, 8.0.22]"
           }
         ],
         "frameworkReferences": {
@@ -4941,7 +4946,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

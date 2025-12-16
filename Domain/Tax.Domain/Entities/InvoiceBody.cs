@@ -8,8 +8,11 @@ namespace Tax.Domain.Entities;
     /// </summary>
     public sealed class InvoiceBody
     {
-        // 59- شناسه کالا/خدمت
-        public string Sstid { get; private set; }
+    public int Id { get; set; }
+    public int InvoiceHeaderId { get; private set; }
+
+    // 59- شناسه کالا/خدمت
+    public string Sstid { get; private set; }
 
         // 60- شرح کالا/خدمت
         public string Sstt { get; private set; }
@@ -109,23 +112,25 @@ namespace Tax.Domain.Entities;
 
         // 92- سهم مالیات ارزش افزوده ارزی
         public Money Sovat { get; private set; }
+        public InvoiceHeader InvoiceHeader { get; private set; }
+        
 
         // قواعد کنترلی بدنه صورتحساب
-        public void ValidateBodyTotals()
+    public void ValidateBodyTotals()
+    {
+        if (Prdis != null && Dis != null && Adis != null)
         {
-            if (Prdis != null && Dis != null && Adis != null)
-            {
-                var calculated = Prdis.Amount - Dis.Amount;
-                if (Math.Abs(calculated - Adis.Amount) > 0.01m)
-                    throw new InvalidOperationException("مبلغ پس از تخفیف باید برابر تفاضل مبلغ قبل از تخفیف و تخفیف باشد.");
-            }
-
-            if (Adis != null && Vam != null && Odam != null && Tsstam != null)
-            {
-                var sum = Adis.Amount + Vam.Amount + Odam.Amount;
-                if (Math.Abs(sum - Tsstam.Amount) > 0.01m)
-                    throw new InvalidOperationException("جمع کل هر ردیف ناصحیح است.");
-            }
+            var calculated = Prdis.Amount - Dis.Amount;
+            if (Math.Abs(calculated - Adis.Amount) > 0.01m)
+                throw new InvalidOperationException("مبلغ پس از تخفیف باید برابر تفاضل مبلغ قبل از تخفیف و تخفیف باشد.");
         }
+
+        if (Adis != null && Vam != null && Odam != null && Tsstam != null)
+        {
+            var sum = Adis.Amount + Vam.Amount + Odam.Amount;
+            if (Math.Abs(sum - Tsstam.Amount) > 0.01m)
+                throw new InvalidOperationException("جمع کل هر ردیف ناصحیح است.");
+        }
+    }
     }
 

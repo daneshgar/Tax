@@ -9,6 +9,10 @@ public sealed record Money
     {
         Amount = amount ?? throw new ArgumentNullException(nameof(amount));
     }
+    private Money()
+    {
+        
+    }
 
     public override string ToString()
     {

@@ -3,6 +3,8 @@ namespace Tax.Domain.Entities
 {
     public sealed class InvoiceHeader
     {
+        public int Id { get; private set; }
+
         // 1- شماره منحصر به فرد مالیاتی
         public string Taxid { get; private set; }
 
@@ -178,36 +180,46 @@ namespace Tax.Domain.Entities
 
         // 58- توضیحات
         public string Desc { get; private set; }
+        public ICollection<InvoiceBody> InvoiceBody { get; private set; }
+        public ICollection<InvoicePayment> InvoicePayment { get; private set; }
+
+        
 
         // Constructor
-        public InvoiceHeader(
-            string taxid,
-            long? indatim,
-            int? inty,
-            int? inp,
-            string tins,
-            Money tprdis,
-            Money tdis,
-            Money tadis,
-            Money tvam,
-            Money todam,
-            Money tbill)
-        {
-            Taxid = taxid ?? throw new ArgumentNullException(nameof(taxid));
-            Indatim = indatim;
-            Inty = inty;
-            Inp = inp;
-            Tins = tins ?? throw new ArgumentNullException(nameof(tins));
-            Tprdis = tprdis;
-            Tdis = tdis;
-            Tadis = tadis;
-            Tvam = tvam;
-            Todam = todam;
-            Tbill = tbill ?? throw new ArgumentNullException(nameof(tbill));
+        //public InvoiceHeader(
+        //    string taxid,
+        //    long? indatim,
+        //    int? inty,
+        //    int? inp,
+        //    string tins,
+        //    Money tprdis,
+        //    Money tdis,
+        //    Money tadis,
+        //    Money tvam,
+        //    Money todam,
+        //    Money tbill)
+        //{
+        //    Taxid = taxid ?? throw new ArgumentNullException(nameof(taxid));
+        //    Indatim = indatim;
+        //    Inty = inty;
+        //    Inp = inp;
+        //    Tins = tins ?? throw new ArgumentNullException(nameof(tins));
+        //    Tprdis = tprdis;
+        //    Tdis = tdis;
+        //    Tadis = tadis;
+        //    Tvam = tvam;
+        //    Todam = todam;
+        //    Tbill = tbill ?? throw new ArgumentNullException(nameof(tbill));
 
-            ValidateHeaderTotals();
+        //    ValidateHeaderTotals();
+        //}
+
+        private InvoiceHeader()
+        {
+            
+
         }
-                private void ValidateHeaderTotals()
+        private void ValidateHeaderTotals()
         {
             // قاعده: مجموع پس از تخفیف = مجموع قبل از تخفیف - تخفیفات
             if (Tprdis != null && Tdis != null && Tadis != null)

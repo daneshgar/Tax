@@ -9,6 +9,9 @@ namespace Tax.Domain.Entities
     /// </summary>
     public sealed class InvoicePayment
     {
+        public int Id { get; set; }
+        public int InvoiceHeaderId { get; private set; }
+
         // 93- شماره شاپرک / شماره پذیرنده
         public string Iinn { get; private set; }
 
@@ -35,6 +38,8 @@ namespace Tax.Domain.Entities
 
         // مبلغ پرداختی
         public Money Pv { get; private set; }
+        public InvoiceHeader InvoiceHeader { get; private set; }
+        
 
         public void ValidatePaymentValue(Money expectedTotal)
         {

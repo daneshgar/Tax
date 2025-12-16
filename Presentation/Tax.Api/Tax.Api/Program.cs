@@ -2,14 +2,12 @@
 using Microsoft.OpenApi.Models;
 using Tax.Infrastructure;
 using Tax.Infrastructure.Data;
-using Tax.Infrastructure.Handlers.Query;
+
 
 var builder = WebApplication.CreateBuilder(args);
 // ثبت EF Core از Infrastructure
 builder.Services.AddInfrastructure(builder.Configuration);
 
-// ثبت MediatR
-builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(GetTaxItemsQueryHandler).Assembly));
 
 // Add services to the container.
 

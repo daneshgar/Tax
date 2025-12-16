@@ -1106,6 +1106,7 @@
       "Tax.Application/1.0.0": {
         "dependencies": {
           "MediatR": "12.5.0",
+          "Microsoft.EntityFrameworkCore": "9.0.3",
           "Tax.Domain": "1.0.0"
         },
         "runtime": {
